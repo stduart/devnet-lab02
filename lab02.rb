@@ -8,3 +8,8 @@ class Person
   include MyName
   puts "Hello DevNet!"
 end
+
+class Staging
+  puts "This is the staging method"
+end
+
