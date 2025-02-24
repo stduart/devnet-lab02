@@ -6,4 +6,5 @@ end
 
 class Person
   include MyName
+  puts "Hello DevNet!"
 end
